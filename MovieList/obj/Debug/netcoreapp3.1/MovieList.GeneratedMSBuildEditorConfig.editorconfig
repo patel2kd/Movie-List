@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = MovieList
+build_property.ProjectDir = /Users/kp/Downloads/aspnet_core_mvc/ex_solutions/Ch04Ex1MovieList/MovieList/
